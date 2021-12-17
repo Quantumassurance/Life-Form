@@ -41,11 +41,11 @@ class App extends Component {
 
     postData: {
 
-      lp_campaign_id: '60ec904883e96',
-      lp_campaign_key: 'HdnykrcQ76bVq8BtWmFK',
+      lp_campaign_id: '603467d2b78b3',
+      lp_campaign_key: 'wTmgBknVGjdqChyKMpxL',
       lp_s3: '12',
       lp_s4: '13',
-      landing_Page: 'covermyexpense.com',
+      landing_Page: 'life.quantumassurance.com',
       lp_requestid: document.getElementById('lp').value,
       gclid: document.getElementById('gclid').value,
       TCPA_Consent: 'Yes',
